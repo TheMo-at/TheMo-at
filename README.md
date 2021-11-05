@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheMo-at
-- 👀 I’m interested in MacOs / iOs
+- 👀 I’m interested in MacOs & Windows / iOs & Android
 - 🌱 I’m currently learning frontend Developer @DeveloperAkademie
-- 💞️ I’m looking to collaborate on learning Swift to make an iOs App an frontend Developer
+- 💞️ I’m looking to collaborate on learning frontend Developer.
 - 📫 How to reach me iam@themo.at
 
 <!---
