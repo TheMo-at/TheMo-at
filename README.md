@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheMo-at
+- 👋 Hi, I’m Mario Mohar
 - 👀 I’m interested in MacOs & Windows / iOs & Android
 - 🌱 I’m currently learning frontend Developer @DeveloperAkademie and Mobile App Developer in a Bootcamp
 - 💞️ I’m looking to collaborate on learning frontend & mobile Developer.
